@@ -1,0 +1,28 @@
+# Creating a python virtual environment for dependencies.
+
+> python3 -m venv /Users/spartan/Desktop/Multiple-PDF-Chat/venv
+
+# Activate Virtual Environment
+
+> source venv/bin/activate
+
+# Deactivate
+
+> deactivate
+
+# Installing Dependencies
+
+> pip3 install streamlit pypdf2 langchain python-dotenv faiss-cpu openai huggingface_hub
+> pip3 install InstructorEmbedding sentence_transformers
+> pip3 install -U langchain-community
+> pip3 install -U langchain-openai
+> pip3 install langchain faiss-cpu unstructured
+> pip3 install openai tiktoken
+> pip3 install pytesseract pypdf
+> pip3 install --upgrade -r requirements.txt
+
+
+# Colours
+> Orange #FA6625 | rgb(250, 102, 37)
+> Dark Gray #313638 | rgb(49, 54, 56)
+
