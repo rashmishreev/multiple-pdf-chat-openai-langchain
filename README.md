@@ -10,3 +10,37 @@
 
 
 <img src="https://github.com/rashmishreev/multiple-pdf-chat-openai-langchain/blob/main/Images/prompts.jpg">
+
+## Installation
+With Python installed on your system, clone this repository:
+
+```bash
+git clone [repository-link]
+cd [repository-directory]
+```
+
+Install the required packages:
+
+```bash
+pip install -r requirements.txt
+```
+
+Create a .env file with the following variables:
+
+```bash
+OPENAI_API_KEY=[your-openai-api-key]
+```
+
+## Usage
+To run the Streamlit app:
+
+```bash
+streamlit run chat.py
+```
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+#### References:
+https://github.com/alejandro-ao
+https://www.youtube.com/watch?v=dXxQ0LR-3Hg
