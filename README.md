@@ -31,8 +31,7 @@ Create a .env file with the following variables:
 OPENAI_API_KEY=[your-openai-api-key]
 ```
 
-## Usage
-To run the Streamlit app:
+## To run the streamlit application
 
 ```bash
 streamlit run chat.py
@@ -42,5 +41,5 @@ streamlit run chat.py
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 #### References:
-https://github.com/alejandro-ao
-https://www.youtube.com/watch?v=dXxQ0LR-3Hg
+- https://github.com/alejandro-ao
+- https://www.youtube.com/watch?v=dXxQ0LR-3Hg
