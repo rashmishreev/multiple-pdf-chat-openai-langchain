@@ -1,6 +1,6 @@
 # Creating a python virtual environment for dependencies.
 
-> python3 -m venv /Users/spartan/Desktop/Multiple-PDF-Chat/venv
+> python3 -m venv /path/venv
 
 # Activate Virtual Environment
 
@@ -10,7 +10,7 @@
 
 > deactivate
 
-# Installing Dependencies
+# Dependencies
 
 > pip3 install streamlit pypdf2 langchain python-dotenv faiss-cpu openai huggingface_hub
 > pip3 install InstructorEmbedding sentence_transformers
