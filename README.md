@@ -40,6 +40,6 @@ streamlit run chat.py
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-#### References and :
+#### References:
 - https://github.com/alejandro-ao
 - Alejandro AO - Software & Ai. (2023, May 29). Chat with Multiple PDFs | LangChain App Tutorial in Python (Free LLMs and Embeddings) [Video]. YouTube. https://www.youtube.com/watch?v=dXxQ0LR-3Hg
